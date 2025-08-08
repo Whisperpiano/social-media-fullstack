@@ -11,8 +11,8 @@ This setup is designed as a monorepo, making it easy to manage both frontend and
 
 **Frontend**
 
-- [Next.js 14](https://nextjs.org/) with App Router
-- [React 18](https://react.dev/)
+- [Next.js 15](https://nextjs.org/) with App Router
+- [React 19](https://react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 **Backend**
