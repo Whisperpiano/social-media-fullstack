@@ -1,0 +1,14 @@
+@host = http://localhost
+@port = 5149
+@API_HostAddress = {{host}}:{{port}}
+
+POST {{API_HostAddress}}/api/weatherforecast/generate?count=5
+Content-Type: application/json
+
+{
+    "min": 19,
+    "max": 20
+}
+
+###
+
